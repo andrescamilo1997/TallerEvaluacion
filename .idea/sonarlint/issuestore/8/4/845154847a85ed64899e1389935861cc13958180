@@ -1,0 +1,105 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥ §¥şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·‰úúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïÿ‡ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úÁ»ù
+R
+java:S18541"=Remove this useless assignment to local variable "bandPares".(š’
+Z
+java:S18546"?Remove this useless assignment to local variable "bandImpares".(¦Ÿ´²ûÿÿÿÿ
+@
+java:S1197&"*Move the array designators [] to the type.(Õ¼”½
+@
+java:S1197("*Move the array designators [] to the type.(ÆÄÏÑ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(İí…Í
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Â¥ƒ”ÿÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ü¬˜½ûÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¡£¬£üÿÿÿÿ
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(ê»±d
+S	java:S106["9Replace this use of System.out or System.err by a logger.(åòôŞùÿÿÿÿ
+7	java:S131^""Add a default case to this switch.(’Ç¨¥
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ÈĞÏÀşÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Ëµœ…şÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(ÈĞÏÀşÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(Ëµœ…şÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ÈĞÏÀşÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(Ûú„˜ıÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(Ûú„˜ıÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(Ûú„˜ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹‚Ù¿şÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(†İ´Ïşÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(ª–ö‡ÿÿÿÿÿ
+e
+java:S1871«"IThis case's code block is the same as the block for the case on line 165.(ÀÅ£™úÿÿÿÿ
+`
+java:S1871®"IThis case's code block is the same as the block for the case on line 165.(ÀÂÌÄ
+e
+java:S1871±"IThis case's code block is the same as the block for the case on line 165.(áœÀ…ùÿÿÿÿ
+e
+java:S1871¨"IThis case's code block is the same as the block for the case on line 165.(†–ÈÒşÿÿÿÿ
+8	java:S131¤""Add a default case to this switch.(î§ã
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(İüç‡ùÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(úß’ÿÿÿÿÿ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(úß’ÿÿÿÿÿ
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(œ•®
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(™ò€òüÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(«±ô¶
+d
+java:S3986Ö"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(°æ¡¥şÿÿÿÿ
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(¬¯Âúşÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(Ù´Âşÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(¤‡¶ı
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(¥²È„ÿÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(òæùñ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(¥‰½ÿÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(à‘°Û
+N	java:S106Œ"9Replace this use of System.out or System.err by a logger.(‚¹Œ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¦Şûÿÿÿÿ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(ôêÈk
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(—ëúÒıÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(å§äì
+Q	java:S125¤"<This block of commented-out lines of code should be removed.(Ò¥½W
+W	java:S125²"<This block of commented-out lines of code should be removed.(õÎÀùÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(§Êƒà
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(–Ãò¹ıÿÿÿÿ
+R	java:S125É"<This block of commented-out lines of code should be removed.(Æ‡Õè
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(³ˆ«ıÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(…ƒÓˆûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(‰…†Ùıÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(êÚó÷
+W	java:S125í"<This block of commented-out lines of code should be removed.(ÕµÓúÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(…Â±ıÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(ƒ«”Èùÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(İºÿú
+W	java:S125–"<This block of commented-out lines of code should be removed.(ØŒÒëşÿÿÿÿ
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Öõ×¬î/
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Öõ×¬î/
+j
+java:S1192o"ODefine a constant instead of duplicating this literal "Dia no Laboral" 3 times.(Ûú„˜ıÿÿÿÿ
+g
+java:S1192`"LDefine a constant instead of duplicating this literal "Dia laboral" 3 times.(ÈĞÏÀşÿÿÿÿ
+m	java:S127û"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127ƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127“"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+n	java:S127—"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¶ƒ¯
+m	java:S127›"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆôâ
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆôâ
+8
+java:S1643ˆ"Use a StringBuilder instead.(ÿ¥±Èÿÿÿÿÿ
+3
+java:S1643Š"Use a StringBuilder instead.(›Õƒ
+8
+java:S1643Œ"Use a StringBuilder instead.(¯Í‹óøÿÿÿÿ
+8
+java:S1643˜"Use a StringBuilder instead.(¯Í‹óøÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùûÎµ
