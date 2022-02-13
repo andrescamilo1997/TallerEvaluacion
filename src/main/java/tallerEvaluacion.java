@@ -26,39 +26,30 @@ public class tallerEvaluacion {
         return area;
     }
     /////////////////////////////PRECIO CON IVA ////////////////////////////////
-    public static int precioMasIva(int a) {
-        int precioTotal = ((a*21)/100)+a;
+    public static void precioMasIva(int a) {
+        int operacion = a*21/100;
+        int precioTotal = operacion+a;
         System.out.println("precio total con iva es de: "+ precioTotal);
-        return precioTotal;
-
     }
     /////////////////////////////PARES E IMPARES WHILE////////////////////////////////
     public static void numerosParImparWhile(){
         int contador = 0;
-        int pares[];
-        pares = new int[50];
-        int impares [];
-        impares = new int[50];
+        int pares[]= new int[50];
+        int impares [] = new int[50];
         while (contador <= 100){
             int bandPares = 0;
             int bandImpares = 0;
             if(contador % 2 == 0){
-
                 pares[bandPares] = contador;
                 System.out.println("par " + contador);
                 bandPares++;
             }else{
-
                 impares[bandImpares] = contador;
                 System.out.println("impar " + contador);
                 bandImpares++;
-
             }
-
             contador++;
         }
-
-
     }
     /////////////////////////////PARES E IMPARES FOR////////////////////////////////
     public static void parImparFor(){
@@ -289,7 +280,9 @@ public class tallerEvaluacion {
 
     public static void main(String[] args) {
 
-        /*Scanner primerNumero =new Scanner(System.in);
+        /*
+        //Punto numero 1
+        Scanner primerNumero =new Scanner(System.in);
         Scanner segundoNumero = new Scanner(System.in);
         System.out.println("ingrese El primer numero para verificar");
         int numeroUno = primerNumero.nextInt();
@@ -297,116 +290,79 @@ public class tallerEvaluacion {
         int numerodos = segundoNumero.nextInt();
 
 
-        //Numeros mayor y menor
+        //Punto numero 2
         System.out.println("Tus numeros son: ");
         numerosMaxyMin(numeroUno,numerodos);
          */
+
         /*
-        //Area de un circulo
-        Scanner radio = new Scanner(System.in);
-        System.out.println("Ingrese el radio de su circulo");
-        int r = radio.nextInt();
-        double ra = Double.parseDouble(String.valueOf(r));
+        //Punto numero 3
         radioDeCirculo(r);
          */
-        /*
-        //Lee un número por teclado que pida el precio de un producto (puede tener decimales) y calcule el precio final con IVA. El IVA sera una constante que sera del 21%.
-        Scanner digitePrecio = new Scanner(System.in);
-        System.out.println("Digite el precio del producto para calcularlo con iva");
-        int  precio = digitePrecio.nextInt();
-        precioMasIva(precio);
 
+        /*
+        //Punto numero 4
+        precioMasIva(precio);
+         */
+
+        /*
+        //Punto numero 5
+        numerosParImparWhile();
          */
 
 
         /*
-        //Muestra los números impares y pares del 1 al 100 (ambos incluidos). Usa un bucle while.
-        numerosParImparWhile();
-        */
-
-        /*
-        //Realiza el ejercicio anterior usando un ciclo for.
+        //Punto numero 6
         parImparFor();
          */
 
-
-        /*Lee un número por teclado y comprueba que este numero
-        es mayor o igual que cero, si no lo es lo volverá a pedir (do while),
-        después muestra ese número por consola.
-
-
+        /*
+        //Punto numero 7
         mayorOIgualDoWhile();
         */
 
         /*
-        //Crea una aplicación por consola que nos pida un día de la semana
-        // y que nos diga si es un día laboral o no. Usa un switch para ello.
+        //Punto numero 8
         diaLaboral();
-
          */
-        /*
-        //Del texto,
-        // Reemplaza todas las a del String anterior por una e,
-        // adicionalmente concatenar a esta frase una adicional que ustedes quieran
-        // incluir por consola y las muestre luego unidas.
 
+        /*
+        //Punto numero 9
         laSonrisa();
-
          */
+
         /*
-        //Realizar una aplicación de consola,
-        // que al ingresar una frase por teclado elimine los espacios que esta contenga.
+        //Punto numero 10
         appSinEspacios();
-
          */
+
         /*
-        //Realizar la construcción de un algoritmo que permita de acuerdo a una frase pasada por consola,
-        // indicar cual es la longitud de esta frase, adicionalmente cuantas vocales tiene
+        //Punto numero 11
         contandoVocales();
-
          */
 
         /*
-        //Pedir dos palabras por teclado, indicar si son iguales, sino son iguales mostrar sus diferencias.
+        //Punto numero 12
         diferenciasEntrePalabras();
          */
 
         /*
-        //Realizar un algoritmo que permita consulta la fecha y hora actual
-        // en el formato (AAAA/MM/DD) (HH:MM:SS)
+        //Punto numero 13
         fechasYFormato();
-
          */
 
         /*
-        //Crear un programa que pida un numero por teclado y que imprima por pantalla los números
-        // desde el numero introducido hasta 1000 con saldos de 2 en 2.
+        //Punto numero 14
         saltoDe2En2();
-
          */
 
         /*
-        //Hacer un programa que muestre el siguiente menú de opciones
-        //****** GESTION CINEMATOGRAFICA ********
-        //1-NUEVO ACTOR
-        //2-BUSCAR ACTOR
-        //3-ELIMINAR ACTOR
-        //4-MODIFICAR ACTOR
-        //5-VER TODOS LOS ACTORES
-        //6- VER PELICULAS DE LOS ACTORES
-        //
-        //7-VER CATEGORIA DE LAS PELICULAS DE LOS ACTORES
-        //8-SALIR
-        //
-        //
-        //EL SISTEMA SOLO VA A SALIR CUANDO SE DIGITE EL NUMERO 8, MIENTRAS SE DIGITE UNA DE LAS CINCO
-        // OPCIONES DEBE SEGUIR MOSTRADO EL MENU Y SI EL USUARIO DIGITA UN NUMERO QUE NO ESTA EN EL MENU SE
-        // DEBE ARROJAR UN MENSAJE " OPCION INCORRECTO". Y MOSTRAR EL MENU NUEVAMENTE.
-        //PISTA: CONVINAR SWICHT Y ALGUNO DE LOS BUCLES.
+        //Punto numero 15
         gestionCinematografica();
 
          */
-        //16
+
+
 
 
 
